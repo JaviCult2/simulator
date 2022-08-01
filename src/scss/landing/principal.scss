@@ -1,0 +1,23 @@
+@import "../commons/fonts";
+@import "../commons/colors";
+
+.bg-principal {
+  background: linear-gradient(to bottom, $c-dark-blue, $c-light-blue)
+}
+
+.bg-form {
+  background: coral;
+}
+
+
+/*Buttons*/
+
+.btn-blue {
+  background: $c-dark-blue !important;
+}
+
+.btn-green {
+  background: $c-green !important;
+}
+
+/*Icons*/
